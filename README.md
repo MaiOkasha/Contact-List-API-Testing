@@ -1,5 +1,5 @@
 
-# 🚀 API Test for Contact List App 🚀
+# 🚀 Contact List App - API Testing  🚀
 
 **Building robust API validations in a 5-day Scrum sprint!**
 
@@ -21,15 +21,7 @@ We've leveraged **Scrum methodology** to deliver a well-structured and thoroughl
 * **Trello:** For agile task management and sprint tracking.
 * **Excel:** For structured test case design.
 
-## 🚀 Dive In!
-
-Curious about how we built it?
-
-1.  **Clone this repository** to get started.
-2.  **Import our Postman Collection and Environment** files into your Postman application.
-3.  Explore the **test case documentation** and **UI-API mapping** to understand our strategy.
-
 ---
 
-**Built with passion by a team of 4 QAs, proving efficiency in a fast-paced environment!**
+**Built with by a team of 4 QAs, proving efficiency in a fast-paced environment!**
 ```
